@@ -16,7 +16,8 @@
 ### ⚙️ Backend Development  
 - **Python**: FastAPI, SQLAlchemy, PyMySQL, Pydantic  
 - **API Development & Integration**: REST, Postman  
-- **Logic & Automation**: PySimpleGUI, scripting with Python  
+- **Logic & Automation**: PySimpleGUI, scripting with Python
+- **testing end-to-end**: Playwright 
 
 ### 🗄️ Databases  
 - **SQL (MySQL, PostgreSQL)** with focus on data modeling, queries & optimization  
@@ -44,5 +45,5 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oriol-colomer-bened%C3%AD-b4012792/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oriol-colomer-bened%C3%AD/)  
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ocolomerb@gmail.com)  
